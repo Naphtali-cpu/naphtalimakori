@@ -270,8 +270,10 @@ img{
 }
 
 .home__img{
-  width: 300px;
+  width: 400px;
+  margin-top: -130px;
   justify-self: center;
+  /* padding-left: 150px; */
 }
 
 /*========== BUTTONS ==========*/
