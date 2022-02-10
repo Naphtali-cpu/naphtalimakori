@@ -349,9 +349,18 @@ img{
   cursor: pointer;
 }
 
+/* Testing first */
+
+.about__img {
+  width: 280px;
+  border-radius: 20px;
+  justify-self: center;
+}
+
 .menu__img{
-  width: 100px;
-  align-self: center;
+  border-radius: 30px;
+  width: 600px;
+  /* align-self: center; */
   margin-bottom: var(--mb-2);
 }
 
@@ -657,7 +666,7 @@ color: #fff;
     column-gap: 4rem;
   }
   .menu__content{
-    padding: 1.5rem;
+    padding: 2.5rem;
   }
   .menu__img{
     width: 130px;
